@@ -1,3 +1,23 @@
+/*
+Project: Loan Payoff & Monthly Payment Calculator
+
+Description:
+This program calculates the total payoff amount and monthly payment
+based on user input:
+  - np: principal loan amount
+  - r: monthly interest rate
+  - n: number of months
+
+It uses the formula:
+  pr = (np * r * n) / 12
+  lp = np + pr
+  nm = lp / n
+
+The program runs in a loop until the user chooses to exit.
+*/
+
+
+
 #include <iostream>
 
 using namespace std;
