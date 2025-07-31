@@ -1,3 +1,18 @@
+/*
+Project: Triangular Number Pattern Generator
+
+Description:
+This program tries to print a number triangle pattern based on user input 'n'.
+It begins with 1, and each new line increases in numbers printed.
+The logic for updating values is incomplete, specifically:
+  - 'c = c + ...' is unfinished
+  - The pattern generated is not mathematically defined yet
+
+This version appears to be a work in progress or a test of loop structure.
+*/
+
+
+
 #include <iostream>
 
 using namespace std;
