@@ -1,3 +1,18 @@
+/*
+Project: Persian Month Name Finder
+
+Description:
+Given an integer (1–12), this program prints the corresponding
+month name in the Persian calendar:
+  1 → Farvardin, 2 → Ordibehesht, ..., 12 → Esfand
+
+If the number is greater than 12, it prints "Wrong number".
+
+Demonstrates conditional logic and Persian date knowledge.
+*/
+
+
+
 #include <iostream>
 
 using namespace std;
