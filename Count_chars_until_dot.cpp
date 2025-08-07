@@ -3,7 +3,6 @@
 // Description: This program reads characters from user input
 //              and counts how many are entered before the first
 //              period ('.') is found.
-// Author: [Your Name]
 // ===============================================================
 
 #include <iostream>
@@ -23,3 +22,4 @@ int main()
     cin.get();
     return 0;
 }
+
