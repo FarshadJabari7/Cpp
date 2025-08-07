@@ -4,7 +4,6 @@
 //              and each hour worked beyond 40 earns an extra $20.
 //              The program supports multiple employees and repeats
 //              until the user chooses to stop.
-// Author: [Your Name]
 // ==================================================================
 
 
@@ -48,3 +47,4 @@ int main()
 }
 
 }
+
